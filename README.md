@@ -68,10 +68,8 @@ python3 main.py path/to/input.txt -o result
 
 ```txt
 class Test { public int x; private str y; Test z; }
-
+```
 ---
-
 Выполнил Витаев Абдул-Малик Ихванович
 КМБО-05-23
-```
 
