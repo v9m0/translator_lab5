@@ -78,9 +78,7 @@ python3 main.py path/to/input.txt -o result
 class Test { public int x; private str y; Test z; }
 ```
 
-## Проверка примеров
 
-В директории `examples/valid/` находятся корректные примеры, а в `examples/invalid/` — примеры с ошибками.
 
 ---
 
