@@ -19,6 +19,14 @@
 
 ## Запуск
 
+## Проверка примеров
+
+```bash
+chmod +x examples/run_tests.sh
+./examples/run_tests.sh
+```
+---
+
 ### Интерактивный режим:
 
 ```bash
@@ -64,7 +72,7 @@ python3 main.py path/to/input.txt
 python3 main.py path/to/input.txt -o result
 ```
 
-## Пример входных данных
+### Пример входных данных
 
 ```txt
 class Test { public int x; private str y; Test z; }
@@ -74,9 +82,7 @@ class Test { public int x; private str y; Test z; }
 
 В директории `examples/valid/` находятся корректные примеры, а в `examples/invalid/` — примеры с ошибками.
 
-Автоматическая проверка:
+---
 
-```bash
-chmod +x examples/run_tests.sh
-./examples/run_tests.sh
-```
+#### Выполнил Витаев Абдул-Малик Ихванович
+#### КМБО-05-23
