@@ -1,0 +1,4 @@
+// ошибка: имя поля совпадает с именем класса
+class Broken {
+  public int Broken;
+}

@@ -1,0 +1,5 @@
+class Test {
+  private int x;
+  public str y;
+  Test z;
+}

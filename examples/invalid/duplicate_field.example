@@ -1,0 +1,5 @@
+// ошибка: повторное объявление поля
+class Broken {
+  public int x;
+  private str x;
+}
